@@ -29,3 +29,5 @@ Datos Argentina: https://datos.gob.ar/
 INDEC: https://www.indec.gob.ar/
 
 Datosmacro.com : https://datosmacro.expansion.com/pib
+
+Statista: https://es.statista.com/

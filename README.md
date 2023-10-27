@@ -19,15 +19,4 @@ La dinámica de los movimientos migratorios en la región encuentra sus raíces 
 
 Es importante destacar que los flujos migratorios en la región obedecen a una dualidad de factores determinantes: los que impulsan la salida de individuos de sus lugares de origen y los que atraen a personas hacia nuevos destinos. En el primer grupo, encontramos la persistente carestía de oportunidades laborales dignas, las crisis económicas, los estragos provocados por desastres naturales y el impacto del cambio climático, así como las emergencias humanitarias y, cada vez más, el incremento de la inseguridad y la violencia en todas sus formas. En el segundo grupo, se incluyen las perspectivas laborales más favorables, oportunidades de estudio, salarios más atractivos y la posibilidad de reunificación familiar.
 
-# Links | Anexos 🌐
-El País: https://elpais.com/internacional/2023-06-13/migracion-en-america-latina-y-el-caribe-el-imperativo-de-los-derechos-y-el-desarrollo-sostenible.html
 
-CEPAL :  https://statistics.cepal.org/portal/cepalstat/dashboard.html?lang=es
-
-Datos Argentina: https://datos.gob.ar/
-
-INDEC: https://www.indec.gob.ar/
-
-Datosmacro.com : https://datosmacro.expansion.com/pib
-
-Statista: https://es.statista.com/

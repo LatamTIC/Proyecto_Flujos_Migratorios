@@ -19,4 +19,6 @@ La dinámica de los movimientos migratorios en la región encuentra sus raíces 
 
 Es importante destacar que los flujos migratorios en la región obedecen a una dualidad de factores determinantes: los que impulsan la salida de individuos de sus lugares de origen y los que atraen a personas hacia nuevos destinos. En el primer grupo, encontramos la persistente carestía de oportunidades laborales dignas, las crisis económicas, los estragos provocados por desastres naturales y el impacto del cambio climático, así como las emergencias humanitarias y, cada vez más, el incremento de la inseguridad y la violencia en todas sus formas. En el segundo grupo, se incluyen las perspectivas laborales más favorables, oportunidades de estudio, salarios más atractivos y la posibilidad de reunificación familiar.
 
+# colaboradores
+
 

@@ -29,10 +29,13 @@ Este proyecto no solo es un ejercicio de investigación, sino un paso hacia un m
 
 ## Entregables: 
 **Informes de Análisis de Datos**: Documentación que describe el desarrollo y logros de cada etapa. Como también el detalle de los resultados del análisis, las métricas, los KPIs y las conclusiones.
+
 > Link: https://docs.google.com/document/d/1HzpIV0pLakjeV3vtGqQ_YHn0QHivFpn_JGDvM0MmP4w/edit
 **Visualizaciones de Datos**: ETL, gráficos, tablas y visualizaciones que ilustran los hallazgos y permiten una comprensión más clara de los datos
+> 
 > Link: https://drive.google.com/drive/folders/1nhuSC06ISLCFz6TIfhtP2ivMdEAc_2mO?usp=drive_link
 **Herramienta de seguimiento**: Trello
+> 
 > Link : https://trello.com/b/GnCSlqTZ/proyectoflujosmigratorios
 
 # 👀 Próximamente - Sprint # 2

@@ -1,8 +1,6 @@
 # 📊Proyecto_Flujos_Migratorios 🌍
 ## 🔍💡Data Science || Interpretar la relación de las migraciones humanas con los distintos aspectos socieconómicos y geopolíticos 📈.
 
-<img src="https://drive.google.com/drive/u/0/folders/1oTsTTqxH14NxoDa4ZCDFBjMjINlvBGcW" alt="LATAMTIC" width="400" height="200">
-
 # LATAM TIC
 # “Generando Conocimiento, Transformando Realidades”
 
@@ -21,9 +19,6 @@ Nuestra Visión: Ser un referente global en la generación de estudios socioecon
 
 # 🤝Presentación  del Proyecto:  Análisis de Movimientos Migratorios en América Latina
 
-<img src="https://drive.google.com/drive/u/0/folders/1oTsTTqxH14NxoDa4ZCDFBjMjINlvBGcW" alt="Migrantes Unidos" width="400" height="200">
-
-https://drive.google.com/drive/u/0/folders/1oTsTTqxH14NxoDa4ZCDFBjMjINlvBGcW
 El presente proyecto se centra en analizar y comprender los movimientos migratorios en la región de América Latina considerando el periodo desde el 2015 hasta el 2022. Nuestra labor de investigación se enfoca en los países de Argentina, Venezuela, Colombia, Perú y El Salvador, con el propósito de explicar este fenómeno a través de diversos indicadores.
 Para llevar a cabo esta tarea, hemos sido contratados por la renombrada organización no gubernamental "Migrantes Unidos," que trabaja incansablemente en la defensa de los derechos de los migrantes en toda América Latina. Su misión es luchar por la justicia y la igualdad para todos los migrantes, y su compromiso con el apoyo directo, la defensa de los derechos y la investigación profunda ha tenido un impacto significativo en la región.
 En colaboración con "Migrantes Unidos," nuestro equipo de expertos se enfocará en comprender los procesos migratorios desde múltiples perspectivas, contemplando factores económicos, sociales, culturales y otros indicadores clave. 

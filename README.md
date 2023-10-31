@@ -25,7 +25,7 @@ En colaboración con "Migrantes Unidos," nuestro equipo de expertos se enfocará
 Este proyecto no solo es un ejercicio de investigación, sino un paso hacia un mundo más inclusivo y comprensivo, donde la migración sea segura y respetada. Buscamos aportar valiosos conocimientos que beneficien a la región y a todas las personas que buscan una vida mejor lejos de sus lugares de origen.
 
 
-# 🚀 Sprint #1 - Puesta en marcha el proyecto y Trabajando los Datos
+## 🚀 Sprint #1 - Puesta en marcha el proyecto y Trabajando los Datos
 
 ## Entregables: 
 **Informes de Análisis de Datos**: Documentación que describe el desarrollo y logros de cada etapa. Como también el detalle de los resultados del análisis, las métricas, los KPIs y las conclusiones.
@@ -38,9 +38,9 @@ Este proyecto no solo es un ejercicio de investigación, sino un paso hacia un m
 > 
 > Link : https://trello.com/b/GnCSlqTZ/proyectoflujosmigratorios
 
-# 👀 Próximamente - Sprint # 2
+## 👀 Próximamente - Sprint # 2
 Estamos trabajando en el desarrollo del segundo sprint del proyecto. Avances hasta el momento:
-> Construcción del Data Lake
+> Construcción del Data Lake(in process)
 
 
 

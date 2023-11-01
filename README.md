@@ -38,13 +38,13 @@ Estudios Socioeconómicos:
 ## Entregables: 
 **Informes de Análisis de Datos**: Documentación que describe el desarrollo y logros de cada etapa. Como también el detalle de los resultados del análisis, las métricas, los KPIs y las conclusiones parciales.
 
-> Link: https://drive.google.com/drive/folders/1m0PUeJ-_c-02QdmCiJgStsxOpIL4IEK6
+> Link: https://docs.google.com/document/d/1Tvpm2StniFRkzctZThOGqOp5UWO62A3y/edit
 
 **Visualizaciones de Datos**: ETL, gráficos, tablas y visualizaciones que ilustran los hallazgos y permiten una comprensión más clara de los datos
 > 
 > Link: https://drive.google.com/drive/folders/1nhuSC06ISLCFz6TIfhtP2ivMdEAc_2mO?usp=drive_link
 
-**Herramienta de seguimiento**: Trello
+**Herramienta de seguimiento**: Trello + Gantt GitHub
 > 
 > Link : https://trello.com/b/GnCSlqTZ/proyectoflujosmigratorios
 

@@ -4,7 +4,7 @@
 </div>
 
 # LATAM TIC
-# “Generando Conocimiento, Transformando Realidades”
+“Generando Conocimiento, Transformando Realidades”
 
 ## 🌍Acerca de Nosotros
 <p align="justify"> Somos una consultora especializada en Data Science con una fuerte vocación por el análisis socioeconómico y geopolítico a nivel mundial. Durante diez años, hemos estado liderando el mercado con soluciones innovadoras que trascienden las fronteras de la información y generan un impacto real en la toma de decisiones.</p>
@@ -36,9 +36,9 @@ Estudios Socioeconómicos:
 ## 🚀 Sprint #1 - Puesta en marcha el proyecto y Trabajando los Datos
 
 ## Entregables: 
-**Informes de Análisis de Datos**: Documentación que describe el desarrollo y logros de cada etapa. Como también el detalle de los resultados del análisis, las métricas, los KPIs y las conclusiones.
+**Informes de Análisis de Datos**: Documentación que describe el desarrollo y logros de cada etapa. Como también el detalle de los resultados del análisis, las métricas, los KPIs y las conclusiones parciales.
 
-> Link: https://docs.google.com/document/d/1HzpIV0pLakjeV3vtGqQ_YHn0QHivFpn_JGDvM0MmP4w/edit
+> Link: https://drive.google.com/drive/folders/1m0PUeJ-_c-02QdmCiJgStsxOpIL4IEK6
 
 **Visualizaciones de Datos**: ETL, gráficos, tablas y visualizaciones que ilustran los hallazgos y permiten una comprensión más clara de los datos
 > 
@@ -50,7 +50,7 @@ Estudios Socioeconómicos:
 
 ## 👀 Próximamente - Sprint # 2
 Estamos trabajando en el desarrollo del segundo sprint del proyecto. Avances hasta el momento:
-> Construcción del Data Lake(in process)
+> Construcción del Data warehouse (in process)
 
 
 

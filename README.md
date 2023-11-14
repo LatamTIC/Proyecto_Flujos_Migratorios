@@ -47,10 +47,26 @@ Estudios Socioeconómicos:
 **Herramienta de seguimiento**: Trello + Gantt GitHub
 > 
 > Link : https://trello.com/b/GnCSlqTZ/proyectoflujosmigratorios
+>
+> ## 🚀 Sprint # 2 - Trabajando los Datos
+> 
+En la segunda fase del proyecto de Flujos Migratorios, se estableció una sólida arquitectura basada en un Modelo de Entidad-Relación (ER), sirviendo como base para la implementación en una base de datos relacional. El diseño del Modelo ER atravesó varias etapas, desde la identificación de entidades hasta la normalización de la estructura. La implementación del proceso ETL se realizó con Python y librerías : NumPy y Pandas, permitiendo la extracción, transformación y carga eficiente de datos en un Data Warehouse diseñado para gestionar la información de flujos migratorios.
 
-## 👀 Próximamente - Sprint # 2
-Estamos trabajando en el desarrollo del segundo sprint del proyecto. Avances hasta el momento:
-> Construcción del Data warehouse (in process)
+Se implementaron pipelines para la transferencia programática de datos desde la PC a AWS S3, automatizando el proceso de carga en el Data Warehouse de forma manual. En el análisis de datos, se llevaron a cabo pruebas de validación y se exploraron datos de muestra para definir Key Performance Indicators (KPIs) y realizar un Análisis Exploratorio de Datos (EDA). Además, se diseñó un  dashboard MVP descriptivo, en Power BI, enfocado en el análisis de tendencias y KPIs. Paralelamente, se desarrolló un Producto Mínimo Viable(MVP) de Machine Learning, alcanzando un modelo predictivo robusto con una precisión del 87.5%. 
+En resumen, esta etapa del proyecto abarcó desde la definición y diseño de la arquitectura hasta la implementación práctica de soluciones ETL, la creación de un Data Warehouse, y la construcción de dashboards y modelos predictivos.
+
+## Entregables
+**Informes de Análisis de Datos**: Documentación que describe de forma integral el desarrollo y logros de la segunda etapa.
+
+
+**Herramienta de seguimiento**: Trello + Gantt GitHub
+> 
+> Link : https://trello.com/b/GnCSlqTZ/proyectoflujosmigratorios
+
+## 👀 Próximamente - Sprint # 3
+Estamos trabajando en la organización para el abordaje de tareas del tercer sprint del proyecto. 
+**Avances hasta el momento:
+> Generación de pruebas del modelo de Machine Learning con los cinco países (in process)
 
 
 

@@ -47,7 +47,8 @@ Estudios Socioeconómicos:
 **Herramienta de seguimiento**: Trello + Gantt GitHub
 > 
 > Link : https://trello.com/b/GnCSlqTZ/proyectoflujosmigratorios
->
+
+
 > ## 🚀 Sprint # 2 - Trabajando los Datos
 > 
 En la segunda fase del proyecto de Flujos Migratorios, se estableció una sólida arquitectura basada en un Modelo de Entidad-Relación (ER), sirviendo como base para la implementación en una base de datos relacional. El diseño del Modelo ER atravesó varias etapas, desde la identificación de entidades hasta la normalización de la estructura. La implementación del proceso ETL se realizó con Python y librerías : NumPy y Pandas, permitiendo la extracción, transformación y carga eficiente de datos en un Data Warehouse diseñado para gestionar la información de flujos migratorios.

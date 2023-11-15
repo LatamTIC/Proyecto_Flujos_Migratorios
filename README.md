@@ -61,6 +61,13 @@ En resumen, esta etapa del proyecto abarcó desde la definición y diseño de la
 ## Entregables
 **Informes de Análisis de Datos**: Documentación que describe de forma integral el desarrollo y logros de la segunda etapa.
 
+Link: https://docs.google.com/document/d/10bSNfuZA92RJ-HOOBDGE-Z7O9lk0dDbJoEv7l1NIF98/edit?usp=sharing
+
+
+**Anexos(PPTs, Diagramas, Dashboard, video Carga incremental, Diccionario de datos)
+
+Link: https://drive.google.com/drive/folders/1f1iWur2SuUC8YNHcTmyLh3fHwq1LvK7l?usp=sharing
+
 
 **Herramienta de seguimiento**: Trello + Gantt GitHub
 > 

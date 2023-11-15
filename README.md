@@ -61,7 +61,7 @@ En resumen, esta etapa del proyecto abarcó desde la definición y diseño de la
 ## Entregables
 **Informes de Análisis de Datos**: Documentación que describe de forma integral el desarrollo y logros de la segunda etapa.
 
-Link: https://docs.google.com/document/d/10bSNfuZA92RJ-HOOBDGE-Z7O9lk0dDbJoEv7l1NIF98/edit?usp=sharing
+Link: https://docs.google.com/document/d/1HkrKuzJjCDthZLwvEzfZWJsYyiGPpvsZJ3CQgwK3xrI/edit?usp=sharing
 
 
 

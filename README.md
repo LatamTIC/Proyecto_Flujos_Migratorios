@@ -80,6 +80,15 @@ Link: https://drive.google.com/drive/folders/1f1iWur2SuUC8YNHcTmyLh3fHwq1LvK7l?u
 Estamos trabajando en la organización para el abordaje de tareas del tercer sprint del proyecto. 
 
 **Avances hasta el momento:
+
+** productos
+  <iframe title="MVP_DASHBOARD" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzJhYzM5ODctY2M4YS00ODBlLThiNWEtNTZkNDM5OTA3MTk0IiwidCI6IjFmODEwNTkyLTJiMTAtNGQyZi05ZDFkLWNhMzFiMjY5MTVkZSIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+
+
+
+
+
+
 > Generación de pruebas del modelo de Machine Learning con los cinco países (in process)
 
 

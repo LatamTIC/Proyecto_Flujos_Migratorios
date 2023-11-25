@@ -113,7 +113,7 @@ Se propuso esta herramienta con el fin de adelantarnos a la tendencia, ya que se
 # <font color='#307A71'>**Modelos de ML**<a name="stack"></a></font>
  (descripcion y demo)
  
-# <font color='#307A71'>**esquema Flujo de datos **<a name="stack"></a></font>
+# <font color='#307A71'>**esquema Flujo de datos**<a name="stack"></a></font>
 diagrama
 
 # <font color='#307A71'>**automatizacion(demo)**<a name="stack"></a></font>

@@ -110,8 +110,17 @@ Se propuso esta herramienta con el fin de adelantarnos a la tendencia, ya que se
 ----------
 
 
+# <font color='#307A71'>**Modelos de ML**<a name="stack"></a></font>
+ (descripcion y demo)
+ 
+# <font color='#307A71'>**esquema Flujo de datos **<a name="stack"></a></font>
+diagrama
 
+# <font color='#307A71'>**automatizacion(demo)**<a name="stack"></a></font>
+video de demostracion
 
+# <font color='#307A71'>**diagrama ER**<a name="stack"></a></font>
+descripcion y diagrama
 
 
 > Generación de pruebas del modelo de Machine Learning con los cinco países (in process)

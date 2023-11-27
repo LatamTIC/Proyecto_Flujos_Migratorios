@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Árbol de Decisiones</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="container mx-auto ">
+    <h1 class="text-5xl font-bold text-center text-indigo-700 my-8" >Árbol de Decisiones</h1>
+    <form action="/predict" method="post" class="container mx-auto flex flex-col text-center justifi-content-center">
+
+        <label for="pib_anual" class="text-xl text-green-900 font-extrabold">PIB Anual:</label>
+        <input type="text" id="pib_anual" name="pib_anual" required class="max-w-md self-center rounded-md border-2 border-green-600">
+
+        <label for="pib_per_capita" class="text-xl text-green-900 font-extrabold">PIB Per Capita:</label>
+        <input type="text" id="pib_per_capita" name="pib_per_capita" required class="max-w-md self-center rounded-md border-2 border-green-600">
+
+        <label for="idh" class="text-xl text-green-900 font-extrabold">IDH:</label>
+        <input type="text" id="idh" name="idh" required class="max-w-md self-center rounded-md border-2 border-green-600">
+
+        <label for="esperanza_vida" class="text-xl text-green-900 font-extrabold">Esperanza de Vida:</label>
+        <input type="text" id="esperanza_vida" name="esperanza_vida" required class="max-w-md self-center rounded-md border-2 border-green-600">
+
+        <label for="muertes" class="text-xl text-green-900 font-extrabold">Muertes:</label>
+        <input type="text" id="muertes" name="muertes" required class="max-w-md self-center rounded-md border-2 border-green-600">
+
+        <label for="tasa_mortalidad" class="text-xl text-green-900 font-extrabold">Tasa de Mortalidad:</label>
+        <input type="text" id="tasa_mortalidad" name="tasa_mortalidad" required class="max-w-md self-center rounded-md border-2 border-green-600">
+
+
+        <button type="submit" class="rounded-md border-2 w-56 self-center my-5 bg-indigo-700 text-white hover:bg-sky-700 text-2xl">Realizar Predicción</button>
+    </form>
+</body>
+</html>

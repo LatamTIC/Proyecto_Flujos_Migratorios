@@ -21,6 +21,9 @@
 
 
 # 🤝Presentación  del Proyecto:  Análisis de Movimientos Migratorios en América Latina
+<p align="right">
+  <img src="https://github.com/LatamTIC/Proyecto_Flujos_Migratorios/blob/main/proyecto_web/Migrantes_unidos.png" width="100" />
+</p>
 
 <p align="justify"> El presente proyecto se centra en analizar y comprender los movimientos migratorios en la región de América Latina, considerando el periodo desde el 2015 hasta el 2022. Nuestra labor de investigación se enfoca en los países de Argentina, Venezuela, Colombia, Perú y El Salvador, con el propósito de explicar este fenómeno a través de diversos indicadores.</p>
   

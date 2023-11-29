@@ -40,7 +40,7 @@ El análisis revela desafíos significativos, como el aumento en la tasa de emig
 El enfoque de integración estratégica, contemplando el desarrollo del modelo predictivo, Dashboard y la implementación del portal, busca comprender los desafíos actuales, como también proporcionar una plataforma sostenible para el monitoreo continuo y la toma de decisiones informada. La combinación de tecnología avanzada y análisis profundo establece un estándar para la comprensión integral de los flujos migratorios en la región.
 
 # Portal de Análisis Migratorio en América Latina 🌐
-[acceso al porta web](https://proyecto-flujos-migratorios-r.onrender.com/)
+[acceso al portal web](https://proyecto-flujos-migratorios-r.onrender.com/)
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa68ZBlJdVuTOOpvF_IyEhgBpmYIcd5puS6g&usqp=CAU" width="200" style="margin: auto;" />

@@ -52,7 +52,7 @@ El enfoque de integración estratégica, contemplando el desarrollo del modelo p
 
 **Herramientas de seguimiento**: Trello + Gantt GitHub
 > 
-> [Planificacion de tareas en trello](https://trello.com/b/GnCSlqTZ/proyectoflujosmigratorios)
+> [Planificación de tareas en trello](https://trello.com/b/GnCSlqTZ/proyectoflujosmigratorios)
 > 
 > [Diagrama de gantt](https://github.com/orgs/LatamTIC/projects/3)
 
@@ -61,28 +61,28 @@ El enfoque de integración estratégica, contemplando el desarrollo del modelo p
 ## Entregables Sprint # 1 🚀 
 **Informes de Análisis de Datos**: Documentación que describe el desarrollo y logros de cada etapa. Como también el detalle de los resultados del análisis, las métricas, los KPIs y las conclusiones parciales.
 
-> [Acceso a la documentacion](https://docs.google.com/document/d/1Tvpm2StniFRkzctZThOGqOp5UWO62A3y/edit)
+> [Acceso a la documentación](https://docs.google.com/document/d/1Tvpm2StniFRkzctZThOGqOp5UWO62A3y/edit)
 
 **Visualizaciones de Datos**: ETL, gráficos, tablas y visualizaciones que ilustran los hallazgos y permiten una comprensión más clara de los datos
 > 
-> [Acceso a la documentacion](https://drive.google.com/drive/folders/1nhuSC06ISLCFz6TIfhtP2ivMdEAc_2mO?usp=drive_link)
+> [Acceso a la documentación](https://drive.google.com/drive/folders/1nhuSC06ISLCFz6TIfhtP2ivMdEAc_2mO?usp=drive_link)
 
 
 ## Entregables Sprint # 2 🚀 
 **Informes de Análisis de Datos**: Documentación que describe de forma integral el desarrollo y logros de la segunda etapa.
 
-[Acceso a la documentacion](https://docs.google.com/document/d/1HkrKuzJjCDthZLwvEzfZWJsYyiGPpvsZJ3CQgwK3xrI/edit?usp=sharing)
+[Acceso a la documentación](https://docs.google.com/document/d/1HkrKuzJjCDthZLwvEzfZWJsYyiGPpvsZJ3CQgwK3xrI/edit?usp=sharing)
 
 **Anexos(PPTs, Diagramas, Dashboard, video Carga incremental, Diccionario de datos)**
 
-[Acceso a la documentacion](https://drive.google.com/drive/folders/1f1iWur2SuUC8YNHcTmyLh3fHwq1LvK7l?usp=sharing)
+[Acceso a la documentación](https://drive.google.com/drive/folders/1f1iWur2SuUC8YNHcTmyLh3fHwq1LvK7l?usp=sharing)
 
 ## Entregables Sprint # 3 🚀 
 
 
 - [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2IzNjg4NjMtNzVmYS00MDc1LTlkMjktY2Q0MmJhYTEyOTY4IiwidCI6IjFmODEwNTkyLTJiMTAtNGQyZi05ZDFkLWNhMzFiMjY5MTVkZSIsImMiOjR9) interactivo con los KPIs asociadas , importante para el análisis y obtención de información relevante ,para medir tendencias y eficacia de estrategias planteadas y/o posterior toma de decisiones
 
-- [Aplicacion del modelo ML](https://proyecto-flujos-migratorios-r.onrender.com/#dashboard) Nuestros usuarios pueden acceder a la apps ingresando parametros de un país, obteniendo como resultado la probabilidad de que la emigracion o inmigracion sea alta o baja .
+- [Aplicación del modelo ML](https://proyecto-flujos-migratorios-r.onrender.com/#dashboard) Nuestros usuarios pueden acceder a la apps ingresando parametros de un país, obteniendo como resultado la probabilidad de que la emigracion o inmigracion sea alta o baja .
 
 # Agradecimientos 🙌
 

@@ -25,10 +25,6 @@
   <img src="https://github.com/LatamTIC/Proyecto_Flujos_Migratorios/blob/main/proyecto_web/Migrantes_unidos.png" width="100" />
 </div>
 
-<p align="right">
-  <img src="https://github.com/LatamTIC/Proyecto_Flujos_Migratorios/blob/main/proyecto_web/latam.jpg" width="100" />
-</p>
-
 <p align="justify"> El presente proyecto se centra en analizar y comprender los movimientos migratorios en la región de América Latina, considerando el periodo desde el 2015 hasta el 2022. Nuestra labor de investigación se enfoca en los países de Argentina, Venezuela, Colombia, Perú y El Salvador, con el propósito de explicar este fenómeno a través de diversos indicadores.</p>
   
 <p align="justify"> Para llevar a cabo esta tarea, hemos sido contratados por la renombrada organización no gubernamental "Migrantes Unidos," que trabaja incansablemente en la defensa de los derechos de los migrantes en toda América Latina. Su misión es luchar por la justicia y la igualdad para todos los migrantes, y su compromiso con el apoyo directo, la defensa de los derechos y la investigación profunda ha tenido un impacto significativo en la región.</p>
@@ -46,6 +42,11 @@ El enfoque de integración estratégica, contemplando el desarrollo del modelo p
 
 # Portal de Análisis Migratorio en América Latina 🌐
 https://proyecto-flujos-migratorios-r.onrender.com/
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa68ZBlJdVuTOOpvF_IyEhgBpmYIcd5puS6g&usqp=CAU" width="200" style="margin: auto;" />
+</div>
+
 
 # Reporte Final 📄
 https://doc-10-04-prod-01-apps-viewer.googleusercontent.com/viewer2/prod-01/pdf/066lio6jbacgge2l85aoaslamfkks6lj/toc4nmgp83vp5bqmiaq7trf8cd3kores/1701264600000/3/113642846548005610158/APznzaYBg02giDslDCGmOqwSbZk6c2LzR3aTM2esB4h0iC-5MGLqnKmfLwNh91RrEn19L_HAyX8ewpNx7uvBEm9bVjMIiZDZx6FjDO8boAcy7vxAQRLik98ABOQzqqSr4R5O54nMBaFEDCpylTIWXKefFDPI1oS8nSCPep4xJ2JOj-Ub76M_yC-mgyQ-vnTrAmhbmqfNTNUN97-McIo2xDuLYXs2Lx93Rhor14meejbtF9bnfvYy0-Itt5Al_XKXUVMtmXB3dQhgoWM4mlBmsVMZoDpwsy_vOsdbOp6_XI_ilFUcGIgvEV-ffG8gZfLBIp6hzgLxTd-803331Zd34zmrro_IwDnbGTLVQ3xckWe_o0Nnid3CTzEbt-V53xRnLI70GPUNnShI0-brMl7j_2bv3daru93aj8mfgqp4UtlKBWtJXmuDzNU=?authuser=0&nonce=68esejir9c22g&user=113642846548005610158&hash=cpmo5ej7mo8sbhb88k82dtdaoef26gtm

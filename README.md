@@ -25,6 +25,10 @@
   <img src="https://github.com/LatamTIC/Proyecto_Flujos_Migratorios/blob/main/proyecto_web/Migrantes_unidos.png" width="100" />
 </div>
 
+<p align="right">
+  <img src="https://github.com/LatamTIC/Proyecto_Flujos_Migratorios/blob/main/proyecto_web/latam.jpg" width="100" />
+</p>
+
 <p align="justify"> El presente proyecto se centra en analizar y comprender los movimientos migratorios en la región de América Latina, considerando el periodo desde el 2015 hasta el 2022. Nuestra labor de investigación se enfoca en los países de Argentina, Venezuela, Colombia, Perú y El Salvador, con el propósito de explicar este fenómeno a través de diversos indicadores.</p>
   
 <p align="justify"> Para llevar a cabo esta tarea, hemos sido contratados por la renombrada organización no gubernamental "Migrantes Unidos," que trabaja incansablemente en la defensa de los derechos de los migrantes en toda América Latina. Su misión es luchar por la justicia y la igualdad para todos los migrantes, y su compromiso con el apoyo directo, la defensa de los derechos y la investigación profunda ha tenido un impacto significativo en la región.</p>

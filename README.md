@@ -53,7 +53,8 @@ Link: https://drive.google.com/drive/u/0/folders/1CB4jMrb-7F-M4xbuOdD7cfWMuCD3OP
 
 **Herramientas de seguimiento**: Trello + Gantt GitHub
 > 
-> Link : https://trello.com/b/GnCSlqTZ/proyectoflujosmigratorios
+> [planificacion de tareas en trello](https://trello.com/b/GnCSlqTZ/proyectoflujosmigratorios)
+> [Diagrama de gantt](https://github.com/orgs/LatamTIC/projects/3)
 
 
 ## Entregables del proceso: 

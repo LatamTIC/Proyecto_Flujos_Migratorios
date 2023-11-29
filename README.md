@@ -80,9 +80,9 @@ El enfoque de integración estratégica, contemplando el desarrollo del modelo p
 ## Entregables Sprint # 3 🚀 
 
 
-- [dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2IzNjg4NjMtNzVmYS00MDc1LTlkMjktY2Q0MmJhYTEyOTY4IiwidCI6IjFmODEwNTkyLTJiMTAtNGQyZi05ZDFkLWNhMzFiMjY5MTVkZSIsImMiOjR9) interactivo con los KPIs asociadas , importante para el analisis y obtencion de informacion relevante ,medir tendencias y eficacia de estrategias planteadas  para la toma de decisiones
+- [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2IzNjg4NjMtNzVmYS00MDc1LTlkMjktY2Q0MmJhYTEyOTY4IiwidCI6IjFmODEwNTkyLTJiMTAtNGQyZi05ZDFkLWNhMzFiMjY5MTVkZSIsImMiOjR9) interactivo con los KPIs asociadas , importante para el análisis y obtención de información relevante ,para medir tendencias y eficacia de estrategias planteadas y/o posterior toma de decisiones
 
-- [aplicacion del modelo ML](https://proyecto-flujos-migratorios-r.onrender.com/#dashboard) donde nuestros usuarios pueden acceder a la apps ingresando parametros de un pais y obteniendo como resultado la probabilidad de que la emigracion o inmigracion sea alta o baja .
+- [Aplicacion del modelo ML](https://proyecto-flujos-migratorios-r.onrender.com/#dashboard) Nuestros usuarios pueden acceder a la apps ingresando parametros de un país, obteniendo como resultado la probabilidad de que la emigracion o inmigracion sea alta o baja .
 
 # Agradecimientos 🙌
 

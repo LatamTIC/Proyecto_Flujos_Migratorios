@@ -77,6 +77,13 @@ Link: https://docs.google.com/document/d/1HkrKuzJjCDthZLwvEzfZWJsYyiGPpvsZJ3CQgw
 
 Link: https://drive.google.com/drive/folders/1f1iWur2SuUC8YNHcTmyLh3fHwq1LvK7l?usp=sharing
 
+## Entregables Sprint # 3 🚀 
+
+
+[dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2IzNjg4NjMtNzVmYS00MDc1LTlkMjktY2Q0MmJhYTEyOTY4IiwidCI6IjFmODEwNTkyLTJiMTAtNGQyZi05ZDFkLWNhMzFiMjY5MTVkZSIsImMiOjR9) interactivo con los KPIs asociadas , importante para el analisis y obtencion de informacion relevante ,medir tendencias y eficacia de estrategias planteadas  para la toma de decisiones
+
+[aplicacion del modelo ML](https://proyecto-flujos-migratorios-r.onrender.com/#dashboard) donde nuestros usuarios pueden acceder a la apps ingresando parametros de un pais y obteniendo como resultado la probabilidad de que la emigracion o inmigracion sea alta o baja .
+
 # Agradecimientos 🙌
 
 Queremos expresar nuestro sincero agradecimiento a todas las personas  que contribuyeron al éxito de este proyecto. Su dedicación y colaboración fueron fundamentales para lograr nuestros objetivos. Agradecemos a nuestro equipo, coaching mentors y a todos aquellos que apoyaron para la realización de este gran trabajo. 

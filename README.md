@@ -73,7 +73,7 @@ Link: https://drive.google.com/drive/folders/1f1iWur2SuUC8YNHcTmyLh3fHwq1LvK7l?u
 
 # Agradecimientos 🙌
 
-Queremos expresar nuestro sincero agradecimiento a todas las personas  que contribuyeron al éxito de este proyecto. Su dedicación y colaboración fueron fundamentales para lograr nuestros objetivos. Agradecemos a nuestro equipo,  cliente y a todos aquellos que apoyaron para la realización de este gran trabajo. 
+Queremos expresar nuestro sincero agradecimiento a todas las personas  que contribuyeron al éxito de este proyecto. Su dedicación y colaboración fueron fundamentales para lograr nuestros objetivos. Agradecemos a nuestro equipo, coaching mentors y a todos aquellos que apoyaron para la realización de este gran trabajo. 
 ¡Gracias por ser parte de este viaje!❤️
 
 

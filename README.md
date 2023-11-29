@@ -3,7 +3,7 @@
   <h2>🔍💡 Data Science || Interpretar la relación de las migraciones humanas con los distintos aspectos socioeconómicos y geopolíticos 📈</h2>
 </div>
 <p align="right">
-  <img src="[latam.jpg](https://github.com/LatamTIC/Proyecto_Flujos_Migratorios/blob/main/proyecto_web/latam.jpg)" 
+  <img src="https://github.com/LatamTIC/Proyecto_Flujos_Migratorios/blob/main/proyecto_web/latam.jpg" />
 </p>
 
 # LATAM TIC

@@ -2,6 +2,9 @@
 <div align="center">
   <h2>🔍💡 Data Science || Interpretar la relación de las migraciones humanas con los distintos aspectos socioeconómicos y geopolíticos 📈</h2>
 </div>
+<p align="right">
+  <img src="latam.jpg" alt="Texto alternativo">
+</p>
 
 # LATAM TIC
 “Generando Conocimiento, Transformando Realidades”

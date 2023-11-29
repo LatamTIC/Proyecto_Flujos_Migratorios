@@ -12,6 +12,9 @@ s3 = boto3.client('s3', aws_access_key_id=aws_access_key_id, aws_secret_access_k
 # Lista de buckets
 bucket = "bucket-flujos-migratorios"
 
+def obtener_fecha_modificacion_local(archivo):
+    return os.path.getmtime(archivo)
+
 def obtener_fecha_modificacion_s3(bucket, key):
     try:
         response = s3.head_object(Bucket=bucket, Key=key)

@@ -2,12 +2,11 @@
 <div align="center">
   <h2>🔍💡 Data Science || Interpretar la relación de las migraciones humanas con los distintos aspectos socioeconómicos y geopolíticos 📈</h2>
 </div>
-
-# LATAM TIC
-“Generando Conocimiento, Transformando Realidades”
 <p align="right">
   <img src="https://github.com/LatamTIC/Proyecto_Flujos_Migratorios/blob/main/proyecto_web/latam.jpg" width="100" />
 </p>
+# LATAM TIC
+“Generando Conocimiento, Transformando Realidades”
 
 ## 🌍Acerca de Nosotros
 <p align="justify"> Somos una consultora especializada en Data Science con una fuerte vocación por el análisis socioeconómico y geopolítico a nivel mundial. Durante diez años, hemos estado liderando el mercado con soluciones innovadoras que trascienden las fronteras de la información y generan un impacto real en la toma de decisiones.</p>

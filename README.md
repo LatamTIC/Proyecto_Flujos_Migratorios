@@ -3,7 +3,7 @@
   <h2>🔍💡 Data Science || Interpretar la relación de las migraciones humanas con los distintos aspectos socioeconómicos y geopolíticos 📈</h2>
 </div>
 <p align="right">
-  <img src="latam.jpg" 
+  <img src="[latam.jpg](https://github.com/LatamTIC/Proyecto_Flujos_Migratorios/blob/main/proyecto_web/latam.jpg)" 
 </p>
 
 # LATAM TIC
@@ -49,7 +49,7 @@ https://doc-10-04-prod-01-apps-viewer.googleusercontent.com/viewer2/prod-01/pdf/
 
 
 ## Entregables del proceso: 
-## sprint # 1 🚀 
+## Entregables Sprint # 1 🚀 
 **Informes de Análisis de Datos**: Documentación que describe el desarrollo y logros de cada etapa. Como también el detalle de los resultados del análisis, las métricas, los KPIs y las conclusiones parciales.
 
 > Link: https://docs.google.com/document/d/1Tvpm2StniFRkzctZThOGqOp5UWO62A3y/edit
@@ -68,9 +68,14 @@ Link: https://docs.google.com/document/d/1HkrKuzJjCDthZLwvEzfZWJsYyiGPpvsZJ3CQgw
 
 Link: https://drive.google.com/drive/folders/1f1iWur2SuUC8YNHcTmyLh3fHwq1LvK7l?usp=sharing
 
+# Agradecimientos 🙌
+
+Queremos expresar nuestro sincero agradecimiento a todas las personas  que contribuyeron al éxito de este proyecto. Su dedicación y colaboración fueron fundamentales para lograr nuestros objetivos. Agradecemos a nuestro equipo,  cliente y a todos aquellos que apoyaron para la realización de este logro. 
+¡Gracias por ser parte de este viaje!❤️
 
 
-## 👀 
+
+
 
 
 

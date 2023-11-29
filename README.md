@@ -20,7 +20,7 @@
 <p align="justify">Nuestra Visión: Ser un referente global en la generación de estudios socioeconómicos y geopolíticos, impulsando un mundo más conectado y equitativo.</p> 
 
 
-# 🤝Presentación  del Proyecto:  Análisis de Movimientos Migratorios en América Latina
+# 🤝Presentación  del Proyecto:  Análisis de Movimientos Migratorios
 <div style="text-align: center;">
   <img src="https://github.com/LatamTIC/Proyecto_Flujos_Migratorios/blob/main/proyecto_web/Migrantes_unidos.png" width="100" />
 </div>

@@ -5,6 +5,7 @@
 <p align="right">
   <img src="https://github.com/LatamTIC/Proyecto_Flujos_Migratorios/blob/main/proyecto_web/latam.jpg" width="100" />
 </p>
+
 # LATAM TIC
 “Generando Conocimiento, Transformando Realidades”
 

@@ -2,12 +2,12 @@
 <div align="center">
   <h2>🔍💡 Data Science || Interpretar la relación de las migraciones humanas con los distintos aspectos socioeconómicos y geopolíticos 📈</h2>
 </div>
-<p align="right">
-  <img src="https://github.com/LatamTIC/Proyecto_Flujos_Migratorios/blob/main/proyecto_web/latam.jpg" width="100" />
-</p>
 
 # LATAM TIC
 “Generando Conocimiento, Transformando Realidades”
+<p align="right">
+  <img src="https://github.com/LatamTIC/Proyecto_Flujos_Migratorios/blob/main/proyecto_web/latam.jpg" width="100" />
+</p>
 
 ## 🌍Acerca de Nosotros
 <p align="justify"> Somos una consultora especializada en Data Science con una fuerte vocación por el análisis socioeconómico y geopolítico a nivel mundial. Durante diez años, hemos estado liderando el mercado con soluciones innovadoras que trascienden las fronteras de la información y generan un impacto real en la toma de decisiones.</p>
@@ -21,9 +21,9 @@
 
 
 # 🤝Presentación  del Proyecto:  Análisis de Movimientos Migratorios en América Latina
-<p align="right">
+<div style="text-align: center;">
   <img src="https://github.com/LatamTIC/Proyecto_Flujos_Migratorios/blob/main/proyecto_web/Migrantes_unidos.png" width="100" />
-</p>
+</div>
 
 <p align="justify"> El presente proyecto se centra en analizar y comprender los movimientos migratorios en la región de América Latina, considerando el periodo desde el 2015 hasta el 2022. Nuestra labor de investigación se enfoca en los países de Argentina, Venezuela, Colombia, Perú y El Salvador, con el propósito de explicar este fenómeno a través de diversos indicadores.</p>
   

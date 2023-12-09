@@ -8,6 +8,9 @@
 # LATAM TIC
 “Generando Conocimiento, Transformando Realidades”
 
+## Vide de presentación del proyecto:
+[Análisis de Flujos Migratorio](https://www.youtube.com/watch?v=6k8LYKhO2rk)
+
 ## 🌍Acerca de Nosotros
 <p align="justify"> Somos una consultora especializada en Data Science con una fuerte vocación por el análisis socioeconómico y geopolítico a nivel mundial. Durante diez años, hemos estado liderando el mercado con soluciones innovadoras que trascienden las fronteras de la información y generan un impacto real en la toma de decisiones.</p>
 

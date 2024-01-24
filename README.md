@@ -8,7 +8,7 @@
 # LATAM TIC
 “Generando Conocimiento, Transformando Realidades”
 
-## 🎥Vide de presentación del proyecto:
+## 🎥Video de presentación del proyecto:
 [Análisis de Flujos Migratorio](https://www.youtube.com/watch?v=6k8LYKhO2rk)
 
 ## 🌍Acerca de Nosotros

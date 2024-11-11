@@ -74,7 +74,8 @@ El enfoque de integración estratégica, contemplando el desarrollo del modelo p
 ## Entregables Sprint # 2 🚀 
 **Modelo entidad-relacion**
 
-![Captura de pantalla_11-11-2024_94426_](https://github.com/user-attachments/assets/659397b5-e6a0-4a3c-80c0-8cc7cb60abf7)
+![Captura de pantalla_11-11-2024_9472_](https://github.com/user-attachments/assets/f43dcc98-1f13-4db4-8286-ca3375c5713e)
+
 
 
 **Informes de Análisis de Datos**: Documentación que describe de forma integral el desarrollo y logros de la segunda etapa.
